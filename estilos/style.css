@@ -73,6 +73,11 @@ main {
     border-radius: 5px;
     margin: 5px 0px;
 }
+
+ input:focus-within {
+    background-color: white
+
+}
  label {
     display: none;
 }
